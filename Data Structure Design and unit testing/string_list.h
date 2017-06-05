@@ -1,11 +1,7 @@
 /* string_list.h
-  
-   SENG 265 - Summer 2016
-   Assignment 2
-  
+
    Declarations for a linked list containing C strings.
-  
-   B. Bird - 05/26/2016
+
 */
 
 typedef struct StringListNode{
