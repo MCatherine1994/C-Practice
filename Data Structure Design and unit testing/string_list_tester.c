@@ -1,14 +1,11 @@
 /* string_list_tester.c
-  
-   SENG 265 - Summer 2016
-   Assignment 2
+
    
    Template for a tester for the StringList datatype.
    
    Do not change any of the function signatures or the contents
    of main() or your submission may be invalid.
-  
-   B. Bird - 05/26/2016
+
 */
 
 #include <stdio.h>
